@@ -29,9 +29,13 @@ A unique feature of this app is **weather-based news filtering**: the news mood 
 
 ## Screenshots
 
-![App](https://i.ibb.co/RT4F6FTf/6197099211095393777.jpg)
-![Weather App Light Mode](https://i.ibb.co/SXmkTvH1/6197099211095393775.jpg)
-![Weather App Dark Mode](https://i.ibb.co/BVtHZjgn/6197099211095393776.jpg)
+
+<img src="https://i.ibb.co/RT4F6FTf/6197099211095393777.jpg" alt="App" height="300" />
+
+<img src="https://i.ibb.co/SXmkTvH1/6197099211095393775.jpg" alt="App" height="300" />
+
+<img src="https://i.ibb.co/BVtHZjgn/6197099211095393776.jpg" alt="App" height="300" />
+
 
 ---
 
@@ -64,7 +68,7 @@ A unique feature of this app is **weather-based news filtering**: the news mood 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gitusergb/
+git clone https://github.com/gitusergb/MoodCast-News
 ```
 
 2. Navigate to the project folder:
@@ -130,7 +134,7 @@ npx expo start
 
 ## Repository
 
-* **GitHub:** [https://github.com/gitusergb/](https://github.com/gitusergb/)
+* **GitHub:** [https://github.com/gitusergb/MoodCast-News](https://github.com/gitusergb/MoodCast-News)
 
 ---
 
